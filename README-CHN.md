@@ -133,7 +133,7 @@ ________________________________________
   Minesweeper Arbiter 是一款扫雷游戏。它在原版Windows(R)扫雷的基础上增加了很多功能和优秀的反作弊能力。
 
 - 相对友好的交互界面
-- 非常多的游戏选项
+- 丰富的游戏选项
 - 作弊模式
 - 内置回放引擎
 - 详细、可搜索的数据历史
@@ -141,21 +141,21 @@ ________________________________________
 - 支持插件！
 - 支持多语言
 - 支持系统集成
-- debug protocol
-- board skin support
-- multiplayer game support (-)
-- minesweeper-type hack attacks detection engine
-- 3-level encrypt engine
+- 调试协议
+- 支持换肤
+- 支持多人游戏 (-)
+- 扫雷作弊监测引擎
+- 3级加密引擎
 
 ________________________________________
-## 2. Menu
+## 2. 菜单
 
-### 2.1. Game Menu
+### 2.1. “游戏”菜单
 
-#### 2.1.01. New
+#### 2.1.01. 新游戏
 
-  All the previous game data is cleared and the program is ready for a new game.
-  Shortcut for this menu is [F2]
+  清空上一局的全部数据并开始新一局。
+  快捷键 [F2]
 
 #### 2.1.02. Play Video
 
