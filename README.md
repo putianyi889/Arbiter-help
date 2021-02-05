@@ -1,4 +1,6 @@
+## [中文版（施工中）](README-CHN.md)
 # Arbiter-help
+
 This repository serves for these purposes:
 - Export the texts from Minesweeper Arbiter help file which is no longer supported by Microsoft.
 - Share various settings, including Counters, Automation, etc.
