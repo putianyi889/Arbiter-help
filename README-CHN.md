@@ -13,16 +13,16 @@ ________________________________________
 ## 目录
 
 - [1. 简介](#1-简介)
-- [2. Menu](#2-menu)
-  * [2.1. Game Menu](#21-game-menu)
-    + [2.1.01. New](#2101-new)
-    + [2.1.02. Play Video](#2102-play-video)
-    + [2.1.03. Load Custom Board](#2103-load-custom-board)
-    + [2.1.04. Save Custom Board](#2104-save-custom-board)
-    + [2.1.05. Multiplayer Mod](#2105-multiplayer-mod)
-    + [2.1.06. Beginner](#2106-beginner)
-    + [2.1.07. Intermediate](#2107-intermediate)
-    + [2.1.08. Expert](#2108-expert)
+- [2. 菜单](#2-菜单)
+  * [2.1. “游戏”菜单](#21-“游戏”菜单)
+    + [2.1.01. 新游戏](#2101-新游戏)
+    + [2.1.02. 打开录像](#2102-打开录像)
+    + [2.1.03. 载入自定义图](#2103-载入自定义图)
+    + [2.1.04. 保存自定义图](#2104-保存自定义图)
+    + [2.1.05. 多人模式](#2105-多人模式)
+    + [2.1.06. 初级](#2106-初级)
+    + [2.1.07. 中级](#2107-中级)
+    + [2.1.08. 高级](#2108-高级)
     + [2.1.09. Custom Board](#2109-custom-board)
     + [2.1.10. Local High Scores](#2110-local-high-scores)
     + [2.1.11. Statistics](#2111-statistics)
@@ -155,46 +155,62 @@ ________________________________________
 #### 2.1.01. 新游戏
 
   清空上一局的全部数据并开始新一局。
+  
   快捷键 [F2]
 
-#### 2.1.02. Play Video
+#### 2.1.02. 打开录像
 
-  The Arbiter Video File (.AVF) Open dialog is executed and, if you select a video file, the replay would be loaded and run.
-  Shortcut for this menu is [F3]
+  打开窗口选择Arbiter录像文件(.AVF)，就可以载入并播放录像。
+  
+  快捷键 [F3]
+  
+  译者注：原文如此。实际上 F3 是重玩，F4 是打开录像。
 
-#### 2.1.03. Load Custom Board
+#### 2.1.03. 载入自定义图
 
-  You can load previously saved board and replay it (in Custom mode) as many times, as you wish.
-  Full .MBF format support
-  Shortcut for this menu is [Ctrl+C]
+  你可以载入之前保存过的图并在自定义模式中随意重玩。
+  
+  支持 .MBF 文件类型。
+  
+  快捷键 [Ctrl+C]
+  
+  译者注：原文如此。实际上快捷键是 [Ctrl+V]
 
-#### 2.1.04. Save Custom Board
+#### 2.1.04. 保存自定义图
 
-  You can save any game board and to replay it (in Custom mode) in future as many times, as you wish. You can also share nice boards between other minesweepers.
-  Full .MBF format support
-  Shortcut for this menu is [Ctrl+C]
+  你可以保存任何图并在将来使用“载入自定义图”功能游玩。你还可以和雷友分享有趣的图。
+  
+  支持 .MBF 文件类型。
+  
+  快捷键 [Ctrl+C]
 
+#### 2.1.05. 多人模式
 
-#### 2.1.05. Multiplayer Mod
+  显示多人模式窗口。
+  
+  快捷键 [F4]
+  
+  注: 多人模式还没有实现。
+  
+  译者注：原文如此。实际上 F4 是打开录像。
 
-  The Multiplayer Mod window would be shown
-  Shortcut for this menu is [F4]
-  NOTE: Multiplayer Mod is not written.
+#### 2.1.06. 初级
 
-#### 2.1.06. Beginner
+  进入初级游戏模式。这个模式图的尺寸是 8x8 ，有 10 个隐藏的雷。
+  
+  快捷键 [1]
 
-  The Beginner game mode is selected. In this mode board size is 8x8 cells and board has 10 hidden mines.
-  Shortcut for this menu is [1]
+#### 2.1.07. 中级
 
-#### 2.1.07. Intermediate
+  进入中级游戏模式。这个模式图的尺寸是 16x16 ，有 40 个隐藏的雷。
+  
+  快捷键 [2]
 
-  The Intermediate game mode is selected. In this mode board size is 16x16 cells and board has 40 hidden mines.
-  Shortcut for this menu is [2]
+#### 2.1.08. 高级
 
-#### 2.1.08. Expert
-
-  The Expert game mode is selected. In this mode board size is 30x16 cells and board has 99 hidden mines.
-  Shortcut for this menu is [3]
+  进入高级游戏模式。这个模式图的尺寸是 30x16 ，有 99 个隐藏的雷。
+  
+  快捷键 [3]
 
 #### 2.1.09. Custom Board
 
