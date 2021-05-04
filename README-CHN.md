@@ -23,8 +23,8 @@ ________________________________________
     + [2.1.06. 初级](#2106-初级)
     + [2.1.07. 中级](#2107-中级)
     + [2.1.08. 高级](#2108-高级)
-    + [2.1.09. Custom Board](#2109-custom-board)
-    + [2.1.10. Local High Scores](#2110-local-high-scores)
+    + [2.1.09. Custom Board](#2109-自定义局)
+    + [2.1.10. Local High Scores](#2110-本地记录)
     + [2.1.11. Statistics](#2111-statistics)
     + [2.1.12. Boss-Key](#2112-boss-key)
     + [2.1.13. Exit](#2113-exit)
@@ -212,16 +212,19 @@ ________________________________________
   
   快捷键 [3]
 
-#### 2.1.09. Custom Board
+#### 2.1.09. 自定义局
 
-  The Custom game mode is selected. You can manually set the board size and mines density. Board sizes – up to 30x30 cells and mines density up to 99%. Custom mode is a cheat mode, however you CAN save your game replays but NOT logs to history. Of course, you could make the board screenshots too.
-  NOTE: while playing or viewing replays on custom mode, the “custom” labels would be present in the board’s corners.
-  Inside the Custom Board Size window you can save or load board preset files. Doubleclick on the preset in the list to load it.
-  Shortcut for this menu is [4]
+  进入自定义游戏模式。 你可以手动设置图的大小和雷数。 图的大小最多30x30，雷密度最高99%。 自定义模式属于作弊模式，但是你仍然可以保存录像（不会记录数据历史）。 当然，截图也是可以的。
+  
+  注：游玩自定义模式或观看自定义模式录像时，图的四角会出现“custom”标签。
+  
+  在“自定义设置”窗口中你可以保存或加载预设文件。
+  
+  快捷键 [4]
 
-#### 2.1.10. Local High Scores
+#### 2.1.10. 本地记录
 
-  In the Local High Scores window you can see the local high scores for three legal game modes. A high score includes a player name information and time-jump since previous high score time.
+  在“本地记录一览”窗口中you can see the local high scores for three legal game modes. A high score includes a player name information and time-jump since previous high score time.
   You can reset your local high scores by pressing the Reset button.
   Remember, you couldn't restore your local high scores information if you reset it.
   Shortcut for this menu is [F6]
